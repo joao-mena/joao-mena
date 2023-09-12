@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning React.js library
-- 😄 Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/joao-mena">
